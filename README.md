@@ -9,7 +9,7 @@
   Hi 👋, I'm Eduardo! A passionate Software Engineer student from Brazil.
 
   - 🌱 I’m currently studying Software Engineer at UNIVESP 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with Front-end.
+  - 🔭 I'm currently working as a front-end developer, looking for full-stack knowledge
 </p>
 
 <!-- Dropdown -->
